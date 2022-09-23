@@ -1,0 +1,114 @@
+body {
+	background-color: rgb(188, 182, 157);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #0bc004;
+}
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.content {
+	width: 100%;
+	float:left;
+	top: 0px;
+	position: absolute;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.redes {
+	background-color: #aca9a9;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.logo {
+	margin-left: 10px;
+    position: absolute;
+}
+
+section {
+	background-color: white;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  text-align: center;
+	margin: 0px;
+}
+
+footer {
+	background-color: #67aa0f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.ini{
+  width: 1px;
+  height: 2px;
+}
+h3 {
+  font-size: 15px;
+  text-align: center;
+	margin: 0px;
+}
+.slider{
+  text-align: center;
+}
+
+.mantenimiento-principal{
+  background-color: white;
+}
+
+.mantenimiento{
+  width: 700px;
+  height: 300px;
+  margin-left: 150px;
+}
+
+.historia{
+  margin-left: 200px;
+  margin-bottom: 40px;
+  width: 500px;
+  height: 300px;  
+}
+
+.historia-parrafo{
+  text-align: center;
+  font-size: 18px;
+}
